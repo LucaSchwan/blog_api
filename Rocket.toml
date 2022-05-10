@@ -1,0 +1,2 @@
+[global.databases.blog_api]
+url = "postgres://blog_api:password@localhost/blog_api"
